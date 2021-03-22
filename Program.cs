@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace NetCoreMetanit
 {
-// test git
+// test git 2
     public class Program
     {
         public static void Main(string[] args)
